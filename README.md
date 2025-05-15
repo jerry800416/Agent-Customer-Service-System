@@ -2,6 +2,9 @@
 
 這是一套基於 OpenAI Assistant v2 API 的智能助理系統，使用 Flask 建立 API server，提供用戶互動對話、自動課程推薦、報價諮詢、以及潛在學員資料蒐集與 Airtable 建檔功能。
 
+**完整安裝以及說明請參閱：https://jerry800416.medium.com/%E5%A4%A7%E6%A8%A1%E5%9E%8Bllm%E8%90%BD%E5%9C%B0-3-%E8%87%AA%E5%BB%BA%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-3d5efb7a0fff**
+
+
 [toc]
 
 
@@ -54,7 +57,7 @@ KNOWLEDGE_BASE = "./knowledge"  # 存放 TXT、PDF 的資料夾路徑
 
 4. 建立 Assistant（會自動儲存 `assistant_id` 至 `assistant.json`）
 
-
+**完整安裝以及說明請參閱：https://jerry800416.medium.com/%E5%A4%A7%E6%A8%A1%E5%9E%8Bllm%E8%90%BD%E5%9C%B0-3-%E8%87%AA%E5%BB%BA%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-3d5efb7a0fff**
 
 ## 🚀 啟動伺服器
 
@@ -172,4 +175,4 @@ Assistant 根據使用者提供的資訊自動判斷是否需要建立潛在客�
 
 ## 結果
 
-![image]([picture or gif url](https://github.com/jerry800416/Agent-Customer-Service-System/blob/main/Results.gif))
+![image](https://github.com/jerry800416/Agent-Customer-Service-System/blob/main/Results.gif)
