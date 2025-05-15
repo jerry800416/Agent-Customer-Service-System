@@ -171,3 +171,5 @@ Assistant 根據使用者提供的資訊自動判斷是否需要建立潛在客�
 
 
 ## 結果
+
+![image]([picture or gif url](https://github.com/jerry800416/Agent-Customer-Service-System/blob/main/Results.gif))
